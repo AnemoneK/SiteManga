@@ -5,6 +5,7 @@ h1
 {
     font-family: cursive;
     font-size: 75px;
+
      color: mediumslateblue;
 }
 .personnages
@@ -15,4 +16,14 @@ h1
 }
 ul li{
    list-style: none;
+=======
+    text-align: center;
+    color: mediumslateblue;
+}
+
+.naruto
+{
+    color: rgb(73, 172, 139);
+    text-align: center;
+
 }

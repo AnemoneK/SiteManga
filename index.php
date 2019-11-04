@@ -24,9 +24,16 @@
                 <li>Bulma</li>
                 <li>Piccolo</li>
                 <li>Freezer</li>
-            </ul>
+            </ul> <br>
+  
+    <h2 class="naruto">Personnages de Naruto</h2><br>
+        <p class="text-center">Naruto</p><br>
+        <p class="text-center">Sakura</p><br>
+        <p class="text-center">Sasuke</p><br>
+        <p class="text-center">Hinata</p><br>
           
 
     </div>
+
 </body>
 </html>
