@@ -14,7 +14,7 @@
     <div class="container">
     <h1>Bienvenu sur notre site</h1>
     
-        <h2 class="personnages">Personnages Dragon Ball</h2>hr
+        <h2 class="personnages">Personnages Dragon Ball</h2> <hr>
             <ul>
                 <li>Son Goku</li>
                 <li>Son Gohan</li>
