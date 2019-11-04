@@ -1,7 +1,18 @@
+div{
+    text-align: center;
+}
 h1
 {
     font-family: cursive;
     font-size: 75px;
-    text-align: center;
-    color: mediumslateblue;
+     color: mediumslateblue;
+}
+.personnages
+{
+    font-family: cursive;
+    font-size: 40px;
+     color: rgb(107, 44, 136);
+}
+ul li{
+   list-style: none;
 }
