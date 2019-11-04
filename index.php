@@ -11,6 +11,12 @@
     <title>SiteManga</title>
 </head>
 <body>
-    <h1>Bienvenu sur notre sitre</h1>
+    <h1>Bienvenu sur notre site</h1><hr>
+    <h2 class="naruto">Personnages de Naruto</h2><br>
+        <p class="text-center">Naruto</p><br>
+        <p class="text-center">Sakura</p><br>
+        <p class="text-center">Sasuke</p><br>
+        <p class="text-center">Hinata</p><br>
+
 </body>
 </html>
