@@ -1,7 +1,22 @@
+div{
+    text-align: center;
+}
 h1
 {
     font-family: cursive;
     font-size: 75px;
+
+     color: mediumslateblue;
+}
+.personnages
+{
+    font-family: cursive;
+    font-size: 40px;
+     color: rgb(107, 44, 136);
+}
+ul li{
+   list-style: none;
+=======
     text-align: center;
     color: mediumslateblue;
 }
@@ -10,4 +25,5 @@ h1
 {
     color: rgb(73, 172, 139);
     text-align: center;
+
 }

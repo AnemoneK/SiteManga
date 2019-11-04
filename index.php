@@ -11,12 +11,29 @@
     <title>SiteManga</title>
 </head>
 <body>
-    <h1>Bienvenu sur notre site</h1><hr>
+    <div class="container">
+    <h1>Bienvenu sur notre site</h1>
+    
+        <h2 class="personnages">Personnages Dragon Ball</h2>hr
+            <ul>
+                <li>Son Goku</li>
+                <li>Son Gohan</li>
+                <li>Son Goten</li>
+                <li>Krilin</li>
+                <li>Vegeta</li>
+                <li>Bulma</li>
+                <li>Piccolo</li>
+                <li>Freezer</li>
+            </ul> <br>
+  
     <h2 class="naruto">Personnages de Naruto</h2><br>
         <p class="text-center">Naruto</p><br>
         <p class="text-center">Sakura</p><br>
         <p class="text-center">Sasuke</p><br>
         <p class="text-center">Hinata</p><br>
+          
+
+    </div>
 
 </body>
 </html>
